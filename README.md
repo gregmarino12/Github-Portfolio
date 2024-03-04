@@ -21,8 +21,7 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 
 <i>Email: gregmarino12@icloud.com
 
-<i>Linkedin: <a href="[https://www.linkedin.com/in/greg-marino-/" target="_blank">My personal Linkedin</a>
-
+<i>Linkedin: [My LinkedIn](www.linkedin.com/in/greg-marino-/)</i>
 
 <a name="Educational Background"></a>
 <hr>
@@ -94,16 +93,17 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
      <ol>
         <li>Responsibility</li>
         <li>Learner</li>
-        <li>Discipline</li>
+        <li>Determined</li>
         <li>Developer</li>
         <li>Achiever</li>
      </ol>
    </td>
    <td>
      <ul>
-        <li>Teaching</li>
+        <li>Managing</li>
         <li>Facilitating</li>
        <li>Problem Solving</li>
+       <li>Comprehending</li>
      </ul>
    </td>
  </tr>
