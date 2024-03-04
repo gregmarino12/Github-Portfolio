@@ -54,3 +54,59 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 <br> One of these passions that I have realized is my high interest in our countries economy. My clear passion for finance truly shined through my Junior year summer when I landed my first internship opportunity within the wealth management firm, Certuity, in North Palm Beach, Florida. This opportunity allowed me to dive into the specific industry in which I could use the skills I have learned throughout my undergraduate. They were shocked with my enthusiasm to become familiar with everything I possibly could and my love for helping everyone. 
 
 <br> This led to them asking me back to work over winter break. Over the winter break, I was a lot more hands on with the material and even clients, showing the growth in trust that the company had in me. This made me extremely proud of my work and greatful for the opportunity at hand, and made me want to show them how excited I was by working as hard as I possibly could. This eventually led to them asking me to return in June after I finish my undergraduate degrees at the University of Denver.
+
+<a name="Skills"></a>
+### Skills
+
+<table>
+  <tr>
+    <th>Tools and Technical Skills</th>
+    <th>Certifications</th>
+  </tr>
+  <tr>
+    <td>
+     <ul>
+        <li>SQL</li>
+        <li>Visual Basic</li>
+        <li>Python</li>
+        <li>R</li>
+        <li>Excel</li>
+        <li>Microsoft SQL Server Management Studio</li>
+        <li>Microsoft Visual Studio</li>
+        <li>Tableau</li>
+       <li>PowerBI</li>
+      </ul>
+    </td>
+    <td>
+     <ul>
+        <li>Microsoft Excel 2019 Certification</li>
+        <li>Microsoft Word 2019 Certification</li>
+        <li>Microsoft PowerPoint 2019 Certification</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Clifton Strengths (March 2024)</th>
+    <th>Other Skills</th>
+ </tr>
+ <tr>
+   <td>
+     <ol>
+        <li>Responsibility</li>
+        <li>Learner</li>
+        <li>Discipline</li>
+        <li>Developer</li>
+        <li>Achiever</li>
+     </ol>
+   </td>
+   <td>
+     <ul>
+        <li>Teaching</li>
+        <li>Facilitating</li>
+       <li>Problem Solving</li>
+     </ul>
+   </td>
+ </tr>
+</table>
+
+
