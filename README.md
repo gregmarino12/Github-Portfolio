@@ -44,7 +44,12 @@ Welcome to my Daniels Distinction Portfolio, highlighting my undergraduate exper
 
 <a name="E"></a>
 ### Education & Experience
-<i>Undergraduate at University of Denver, Fall 2019 - Winter 2022</i>
+
+Oxbridge Academy of The Palm Beaches, FL					                      May 2020   
+
+
+<I> Undergraduate at University of Denver, Daniels College Of Business, Fall 2020 - June 2024</i>
+<br> Major: Bachelor of Business Information & Analytics & Management 
 <br>
 <br>I came to DU for the first time ever as a freshman while moving in September 2020. From what I have heard, it is extremely unusual to attend a college that you have never visited before. Since then I am extremely grateful for the community of peers that I have built and can count on for the rest of my life. I also found  my passion for analytical use inside of businesses. I loved the idea of being a problem solver inside of a plethora of industries and truly finalized my specific interests within this undergraduate major. 
 
