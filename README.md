@@ -25,7 +25,7 @@ Welcome to my Daniels Distinction Portfolio, showcasing my undergraduate journey
 <a name="E"></a>
 ### Education & Experience
 
-#### Oxbridge Academy of The Palm Beaches, FL					                      May 2020   
+#### Oxbridge Academy of The Palm Beaches, FL May 2020   
 
 
 <I> Undergraduate at University of Denver, Daniels College Of Business, Fall 2020 - June 2024</i>
