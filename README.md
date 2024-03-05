@@ -134,10 +134,9 @@ The opportunities that I have received and the events that I have been able to s
 </table>
 
 
-<i>Business Information & Data Analytics and Management undergraduate with strong analytical and managerial skills. These skills have been applied to financial analysis, data collection, and business recommendations for the wealth management firm, Certuity. I have proven my value by being asked to return from my internship to a full-time position as an Associate Director. I am proficient in communicating across my team, balancing multiple different projects at once. I have profound credentials in my academic accomplishments, network of individuals, financial analytics as well as advising.
+<i>Business Information & Data Analytics and Management undergraduate with strong analytical and managerial skills is something that has helped me prosper in my new line of work. These skills have been applied to financial analysis, data collection, and business recommendations for the wealth management firm, Certuity. I have proven my value by being asked to return from my internship to a full-time position as an Associate Director. I have been proficient in communicating across my team, balancing multiple different projects at once due to my heavy communication and figuring out our prerogatives. I have profound credentials in my academic accomplishments, network of individuals, financial analytics as well as advising. I will be sharing some of those in my portfolio which you can find below.
 
 
-<a name="Skills"></a>
 
 
 [<img src="https://user-images.githubusercontent.com/91146906/152291436-225cf6f7-2fb4-4c9c-b6bd-96a5010d3db7.svg" height="35"/>](/README2.md/#top)
