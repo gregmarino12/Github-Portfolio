@@ -13,7 +13,7 @@ Welcome to my Daniels Distinction Portfolio, showcasing my undergraduate journey
 
 <i>Email: gregmarino12@icloud.com
 
-<i>Linkedin: [My LinkedIn](www.linkedin.com/in/greg-marino-/)</i>
+<i>Linkedin: [My LinkedIn](www.linkedin.com/in/greg-marino-)
 "C:\Users\gregm\Downloads\(20) Greg Marino _ LinkedIn.html"
 <a name="Educational Background"></a>
 
