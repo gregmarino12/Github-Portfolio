@@ -139,3 +139,6 @@ The opportunities that I have received and the events that I have been able to s
 
 <a name="Skills"></a>
 
+
+[<img src="https://user-images.githubusercontent.com/91146906/152291436-225cf6f7-2fb4-4c9c-b6bd-96a5010d3db7.svg" height="35"/>](/README2.md/#top)
+
