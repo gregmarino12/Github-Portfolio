@@ -1,3 +1,6 @@
+[<img src="https://user-images.githubusercontent.com/91146906/152112781-2de05074-70b1-436b-9bfb-860890cc1de1.svg" height="35"/>](/README.md/#top)
+<hr>
+
 ### Work Examples
 #### <i>In Class Projects
 Enterprise OLTP Database Project
