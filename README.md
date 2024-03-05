@@ -38,15 +38,45 @@ Welcome to my Daniels Distinction Portfolio, showcasing my undergraduate journey
 One of these passions includes my high interest in our country's economy. My clear passion for finance truly shined through my Junior year summer when I landed my first internship opportunity within the wealth management firm, Certuity, in North Palm Beach, Florida. This opportunity allowed me to dive into the specific industry in which I could use the skills I have learned throughout my undergraduate. They were shocked by my enthusiasm to become familiar with everything I possibly could and my love for helping everyone. 
 
 This led to them asking me back to work over winter break. Over the winter break, I was a lot more hands-on with the material and even clients, showing the growth in trust that the company had in me. This made me extremely proud of my work and grateful for the opportunity at hand and made me want to show them how excited I was by working as hard as I possibly could. This eventually led to them asking me to return in June after I finished my undergraduate degrees at the University of Denver.
-#### Joining a Fraternity community 
-<i>Fall 2020 - Spring 2024</i>
-<br>
-<br>
-<be> As an incoming freshman during the year of COVID-19, I found it hard to meet new people with only 60% of the students actually on campus. Many chose the remote class route, which added to this difficult period of my career at DU. By properly immersing myself into the community, I was able to find a great group of similar valued individuals who were also in the same boat that I was. 
-<br>
-<br> In my time being involved inside of the fraternity I have been involved on the social board, helping plan events, and rituals that we take part in to properly initiate our incoming brothers. This opportunity has taught me a lot of communication and interpersonal skills that have been reflected in my undergraduate experience. It has allowed me to reflect on my ability to be a leader inside of a program and even ways on how I can improve my management skills.
-<br>
-<be> The opportunities that I have received and the events that I have been able to successfully facilitate have been a huge part of my both personal and social competence inside of our community here at DU. 
+
+
+
+<img src="https://github.com/gregmarino12/Github-Portfolio/assets/161366027/ee694ec0-8e2e-4dbc-85b1-89cc446ec92f" width="460">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### Joining the Lambda Chi Alpha Community, Fall 2020 - Spring 2024
+
+As an incoming freshman during the year of COVID-19, I found it hard to meet new people with only 60% of the students actually on campus. Many chose the remote class route, which added to this difficult period of my career at DU. By properly immersing myself into the community, I was able to find a great group of similar valued individuals who were also in the same boat that I was. 
+
+In my time being involved inside of the fraternity, I have been involved on the social board, helping plan events, and rituals that we take part in to properly initiate our incoming brothers. This opportunity has taught me a lot of communication and interpersonal skills that have been reflected in my undergraduate experience. It has allowed me to reflect on my ability to be a leader inside of a program and even ways how I can improve my management skills.
+
+The opportunities that I have received and the events that I have been able to successfully facilitate have been a huge part of my both personal and social competence inside of our community here at DU. 
+
+
+
+<img src="https://github.com/gregmarino12/Github-Portfolio/assets/161366027/9400752b-4447-4de8-b4df-0dc43fa64161" width="460">
+
+
+
+
+
+
+
+
 
 <a name="Skills"></a>
 ### Skills
@@ -103,15 +133,18 @@ This led to them asking me back to work over winter break. Over the winter break
  </tr>
 </table>
 
+
 <i>Business Information & Data Analytics and Management undergraduate with strong analytical and managerial skills. These skills have been applied to financial analysis, data collection, and business recommendations for the wealth management firm, Certuity. I have proven my value by being asked to return from my internship to a full-time position as an Associate Director. I am proficient in communicating across my team, balancing multiple different projects at once. I have profound credentials in my academic accomplishments, network of individuals, financial analytics as well as advising.
+
 
 <a name="Skills"></a>
 ### Work Examples
-<i>In School Favorites
-<br>
-<br> OLTP Database Project
-<br>During my Foundations or Information Management class in Winter 2021, I was tasked with planning, designing, building, and programming aspects of an information management system using Microsoft Word (documentation), Visio (diagraming), and Access (relational database). 
-<br>
+#### <i>In Class Projects
+Enterprise OLTP Database Project
+
+During my Enterprise Information Management class in the Spring Quarter of 2023, I was tasked with the planning, designing, developing, and programming aspects of an information management system using Microsoft Word (documentation), Visio (diagraming), and Visual Studio (database). This required a lot of deep thought about how a specific kind of business could benefit using our analytical skills. I decided it would be interesting to try and use my father's company's structure with mock data. (I also completed the same design using his real data, but that only went to him for disclosure reasons.
+
+
 
 
 https://github.com/gregmarino12/Github-Portfolio/assets/161366027/83306fd8-ee84-41e2-8228-0369053f3265
@@ -121,6 +154,8 @@ https://github.com/gregmarino12/Github-Portfolio/assets/161366027/83306fd8-ee84-
 
 
 
+
+I enjoyed the creation of this database because by reflecting on it now, I have realized how much that class forced me to become a stronger developer and analyst. Our professor oriented the class in a way that you had to go out and figure out most of this information on your own, so I feel that it pushed me to become a better student and individual overall. This class was also my highest grade ever in my DU career (100.04%).
 
 
 <i>Financial Analysis (Due to NDAs I cannot provide direct examples)
@@ -139,6 +174,16 @@ Helped guide black diamond interface meetings where we discussed data mining in 
 
 <a name="WorkExamples"></a>
 ### Work Experience
+
+Marino Performance Motors
+One of my more favorite accomplishments was when I found a way for my father to accept cryptocurrency for his used exotic car dealership. I was able to network with an individual from California who worked at one of the first banks to instantly liquidate high volumes of cryptocurrency for a very small fee. This essentially mitigated my father's exposure to the high volitility 
+
+
+
+
+
+
+
 
 <a name="Fun"></a>
 ### FUN!
