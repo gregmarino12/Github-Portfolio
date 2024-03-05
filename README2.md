@@ -17,7 +17,8 @@ https://github.com/gregmarino12/Github-Portfolio/assets/161366027/83306fd8-ee84-
 
 I enjoyed the creation of this database because by reflecting on it now, I have realized how much that class forced me to become a stronger developer and analyst. Our professor oriented the class in a way that you had to go out and figure out most of this information on your own, so I feel that it pushed me to become a better student and individual overall. This class was also my highest grade ever in my DU career (100.04%).
 
-
+<a name="WorkExamples"></a>
+### Work Experience
 <i>Financial Analysis (Due to NDAs I cannot provide direct examples)
 <br>
 Established a series of different strategy analyses, observing how the business development team decides what asset exposure their strategies should contain.
@@ -30,10 +31,6 @@ Created different dashboards with splicers visualizing the firm’s advisor’s 
 Ushered new employees comfortably into their new positions familiarizing them with our different platforms (BlackDiamond and Salentica Engage).
 Helped guide black diamond interface meetings where we discussed data mining in depth.
 
-
-
-<a name="WorkExamples"></a>
-### Work Experience
 
 Marino Performance Motors
 One of my favorite accomplishments was when I found a way for my father to accept cryptocurrency for his used exotic car dealership. I was able to network with an individual from California who worked at one of the first banks to instantly liquidate high volumes of cryptocurrency for a very small fee. This essentially mitigated my father's exposure to these high-volatility assets. I am extremely proud of this accomplishment because it is still being used to this day. You can stay up to date by signing up for our newsletter I also helped create [here!](https://www.marinoperformancemotors.com/promotions/)
