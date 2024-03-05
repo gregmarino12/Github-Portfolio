@@ -13,8 +13,8 @@ Welcome to my Daniels Distinction Portfolio, showcasing my undergraduate journey
 
 <i>Email: gregmarino12@icloud.com
 
-<i>Linkedin: [My LinkedIn](www.linkedin.com/in/greg-marino-)
-"C:\Users\gregm\Downloads\(20) Greg Marino _ LinkedIn.html"
+<i>Linkedin: [My LinkedIn](https://www.linkedin.com/in/greg-marino-/)
+
 <a name="Educational Background"></a>
 
 <hr>
@@ -178,7 +178,7 @@ Helped guide black diamond interface meetings where we discussed data mining in 
 Marino Performance Motors
 One of my favorite accomplishments was when I found a way for my father to accept cryptocurrency for his used exotic car dealership. I was able to network with an individual from California who worked at one of the first banks to instantly liquidate high volumes of cryptocurrency for a very small fee. This essentially mitigated my father's exposure to these high-volatility assets. I am extremely proud of this accomplishment because it is still being used to this day. You can stay up to date by signing up for our newsletter I also helped create [here!](https://www.marinoperformancemotors.com/promotions/)
 
-https://www.marinoperformancemotors.com/promotions/
+
 
 
 
