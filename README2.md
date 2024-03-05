@@ -46,6 +46,23 @@ One of my favorite accomplishments was when I found a way for my father to accep
 
 
 
+
+
+
+
+
 <a name="Fun"></a>
 ### FUN!
+
+
+![thumbnail_IMG_0699](https://github.com/gregmarino12/Github-Portfolio/assets/161366027/ee921ea5-13dd-4d99-b273-317e32f2d4d9)
+
+
+
+
+
+
+
+
+
 
