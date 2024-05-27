@@ -1,11 +1,6 @@
 <a name="top"></a>
 
-# Daniels Distinction Portfolio
-<i>Greg Marino – March 2024 – Business Analytics & Management</i>
-<br><br>
-Welcome to my Daniels Distinction Portfolio, showcasing my undergraduate journey and achievements at the University of Denver.
-
-
+# Greg Marino – Business Analytics & Management</i>
 ## Contact Information
 <i>Address: Jupiter, FL 33458
 
@@ -57,9 +52,9 @@ This led to them asking me back to work over winter break. Over the winter break
 
 
 
+#### About
 
 #### Joining the Lambda Chi Alpha Community, Fall 2020 - Spring 2024
-
 As an incoming freshman during the year of COVID-19, I found it hard to meet new people with only 60% of the students actually on campus. Many chose the remote class route, which added to this difficult period of my career at DU. By properly immersing myself into the community, I was able to find a great group of similar valued individuals who were also in the same boat that I was. 
 
 In my time being involved inside of the fraternity, I have been involved on the social board, helping plan events, and rituals that we take part in to properly initiate our incoming brothers. This opportunity has taught me a lot of communication and interpersonal skills that have been reflected in my undergraduate experience. It has allowed me to reflect on my ability to be a leader inside of a program and even ways how I can improve my management skills.
