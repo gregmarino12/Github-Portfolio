@@ -53,7 +53,7 @@ This experience led to an invitation to return and work over winter break. Durin
 
 
 
-#### About
+### About
 
 #### Joining the Lambda Chi Alpha Community, Fall 2020 - Spring 2024
 
