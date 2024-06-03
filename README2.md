@@ -56,7 +56,7 @@ One of my favorite accomplishments was when I found a way for my father to accep
 ### MORE FUN!
 
 
-Growing up in Jupiter, FL I have always loved doing absolutely anything on the water. Whether that is golfing, fishing, scuba diving, snorkeling, etc. it has always been a part of my life and how I relieve stress.
+Growing up in Jupiter, FL I have always loved doing absolutely anything on the water. Whether that is golfing, fishing, scuba diving, snorkeling, etc. it has always been a part of my life and how I relieve stress. 
 
 <img src="https://github.com/gregmarino12/Github-Portfolio/assets/161366027/ee921ea5-13dd-4d99-b273-317e32f2d4d9" height="350">
 
@@ -64,7 +64,7 @@ Growing up in Jupiter, FL I have always loved doing absolutely anything on the w
 
 
 
-Here is a picture of me right after grabbing a starfish in our Jupiter inlet.
+<i> Jupiter, FL
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
