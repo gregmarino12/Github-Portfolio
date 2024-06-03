@@ -2,13 +2,14 @@
 
 # Greg Marino – Business Analytics & Management</i>
 ## Contact Information
-<i>Address: Jupiter, FL 33458
 
 <i>Cell Phone Number: 561-339-4559
 
 <i>Email: gregmarino12@icloud.com
 
 <i>Linkedin: [My LinkedIn](https://www.linkedin.com/in/greg-marino-/)
+
+<i>Address: Jupiter, FL 33458
 
 <a name="Educational Background"></a>
 
